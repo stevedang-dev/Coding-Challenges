@@ -11,7 +11,7 @@ Output: 3
 Input: [2,0,0]
 Output: 2
 ``` 
-- Solution:
+- [Solution](http://playcode.io/250334?tabs=script.js&output):
 
 ```
 const keyObject = {
